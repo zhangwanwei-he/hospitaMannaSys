@@ -8,6 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!-- 主页面 -->
     <title>优就业-线医疗管理系统</title>
 	<meta charset="UTF-8">
 	<link rel="icon" href="Images/logo_favicon.ico" type="image/x-icon" />
